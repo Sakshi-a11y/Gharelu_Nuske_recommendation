@@ -2,7 +2,6 @@
 
 An AI-powered health assistant that combines symptom-based disease prediction, FAISS-based semantic retrieval, RAG, Gemini, and a safety layer to provide general home-care information and possible-condition predictions.
 
-⚠️ Medical Disclaimer: This project is for educational and informational purposes only. It does not provide medical diagnosis or replace advice from a qualified healthcare professional.
 
 📌 Overview
 
