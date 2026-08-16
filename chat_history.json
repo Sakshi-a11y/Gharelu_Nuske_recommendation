@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2026-08-16 18:37:14",
+        "original_query": "I have fever",
+        "symptoms": [
+            "chills",
+            "cough",
+            "fever"
+        ],
+        "fever_duration": "3",
+        "fever_pattern": "night",
+        "route": "DISEASE",
+        "prediction": "Malaria",
+        "confidence": 93.0,
+        "safety_level": "NORMAL",
+        "safety_flags": []
+    },
+    {
+        "date": "2026-08-16 18:42:08",
+        "original_query": "I have fever",
+        "symptoms": [
+            "chills",
+            "cough",
+            "fever"
+        ],
+        "fever_duration": "5",
+        "fever_pattern": "night",
+        "route": "DISEASE",
+        "prediction": "Malaria",
+        "confidence": 93.0,
+        "safety_level": "CAUTION",
+        "safety_flags": [
+            "PERSISTENT_FEVER"
+        ]
+    },
+    {
+        "date": "2026-08-16 18:48:27",
+        "original_query": "i have fever",
+        "symptoms": [
+            "chills",
+            "cough",
+            "fever"
+        ],
+        "fever_duration": "3",
+        "fever_pattern": "night",
+        "route": "DISEASE",
+        "prediction": "Malaria",
+        "confidence": 93.0,
+        "safety_level": "NORMAL"
+    }
+]
