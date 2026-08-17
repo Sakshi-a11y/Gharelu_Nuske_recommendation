@@ -364,7 +364,7 @@ User-specific chat history
 
 1. Clone the repository
 
-git clone <[YOUR_REPOSITORY_URL](https://github.com/Sakshi-a11y/Gharelu_Nuske_recommendation.git)>
+git clone <(https://github.com/Sakshi-a11y/Gharelu_Nuske_recommendation.git)>
 cd home-remedies
 
 2. Create a Python virtual environment
